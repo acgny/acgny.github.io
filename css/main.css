@@ -1,0 +1,27 @@
+body
+{
+	font-size:100%;
+	font-weight:bold;
+}
+th
+{
+	font-size:120%;
+	font-weight:bold;
+	border:2px #66CCFF solid
+}
+tr
+{
+	border:2px #66CCFF solid
+}
+table
+{
+	border:2px #66CCFF solid
+}
+down
+{
+	font-size: 130%
+}
+space
+{
+	font-size: 0.000001%
+}
