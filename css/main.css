@@ -1,27 +1,27 @@
 body
 {
-	font-size:100%;
-	font-weight:bold;
+	font-size: 100%;
+	font-weight: bold;
 }
 th
 {
 	font-size:120%;
-	font-weight:bold;
-	border:2px #66CCFF solid
+	font-weight: bold;
+	border: none
 }
 tr
 {
-	border:2px #66CCFF solid
+	border: none
 }
 table
 {
-	border:2px #66CCFF solid
+	border: 2px #39C5BB solid
 }
 down
 {
-	font-size: 130%
+	font-size: 120%
 }
 space
 {
-	font-size: 10%
+	font-size: 20%
 }
